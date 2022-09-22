@@ -710,7 +710,7 @@ img {
 }
 
 
-/* media css */
+
 @media (max-width:400px)  { 
    
 .logos img{
@@ -727,12 +727,7 @@ img {
        width: 50px;
       
    }
-   .carousel-item img{
-    max-height:800px  ;
-    padding-right: 3%;
-    padding-left: 3%;
-   
-}
+  
  
    .ncctitle2{
        font-family: 'Roboto', sans-serif;
@@ -763,6 +758,12 @@ img {
            width: 50px;
           
        }
+       .carousel-item img{
+        max-height:800px  ;
+        padding-right: 3%;
+        padding-left: 3%;
+       
+    }
        .ncctitle{
            margin-left: 50%;
            margin-top: -40%;
