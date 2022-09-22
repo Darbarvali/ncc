@@ -727,6 +727,12 @@ img {
        width: 50px;
       
    }
+   .carousel-item img{
+    max-height:800px  ;
+    padding-right: 3%;
+    padding-left: 3%;
+   
+}
  
    .ncctitle2{
        font-family: 'Roboto', sans-serif;
